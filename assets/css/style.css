@@ -20,3 +20,20 @@ header h1 {
     color: #BCE784;
     display: inline;
 }
+
+header nav {
+    float: right;
+    margin: 8px 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 30px;
+    font-weight: ligther;
+    font-size: 26px;
+}
+
+.about-me {
+    text-align: center;
+    background-color: #348AA7;
+}
